@@ -1,3 +1,2 @@
-# Esercizio #1 INGSW Davide Scrivano
-Questo è il primo esercizio sui design patterns.
+# Playground
 Questo è il ReadMe della branch master.
